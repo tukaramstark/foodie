@@ -95,4 +95,8 @@ window.addEventListener("scroll", function () {
       <section className="mt-6 rounded-lg border border-zinc-800 bg-zinc-900/50 p-4">
         <h3 className="text-sm font-medium text-zinc-200">New section</h3>
         <p className="mt-1 text-xs text-zinc-400">Added in recent update</p>
-      </section>
+      
+      <button className="rounded-md bg-emerald-600 px-3 py-1.5 text-sm text-white hover:bg-emerald-500">
+        Action
+      </button>
+</section>
