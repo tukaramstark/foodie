@@ -90,3 +90,4 @@ window.addEventListener("scroll", function () {
   }
 
 });
+// TODO: refine script.js layout spacing
