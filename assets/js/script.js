@@ -102,3 +102,4 @@ window.addEventListener("scroll", function () {
 </section>
 // state update 4
 // Foodie update
+// TODO: refine script.js layout spacing
