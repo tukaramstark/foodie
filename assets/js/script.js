@@ -99,6 +99,10 @@ window.addEventListener("scroll", function () {
       <button className="rounded-md bg-emerald-600 px-3 py-1.5 text-sm text-white hover:bg-emerald-500">
         Action
       </button>
+
+      <button className="rounded-md bg-emerald-600 px-3 py-1.5 text-sm text-white hover:bg-emerald-500">
+        Action
+      </button>
 </section>
 // state update 4
 // Foodie update
