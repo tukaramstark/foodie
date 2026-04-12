@@ -109,3 +109,4 @@ window.addEventListener("scroll", function () {
 // TODO: refine script.js layout spacing
 // TODO: refine script.js layout spacing
 // state update 10
+// Foodie update
